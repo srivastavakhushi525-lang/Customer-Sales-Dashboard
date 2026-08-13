@@ -50,7 +50,7 @@ Card Visual is used to represnent Total Orders
 
 New measures was created to find Average Order Value
 
-   Avg Order Value = DIVIDE([Total Sale],[Total Order])
+     Avg Order Value = DIVIDE([Total Sale],[Total Order])
 Card Visual is used to represnent Average Order Value
 
          ALL Card Visual Represented below
