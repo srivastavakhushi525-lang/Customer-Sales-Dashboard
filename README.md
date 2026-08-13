@@ -55,13 +55,13 @@ Card Visual is used to represnent Average Order Value
 
          ALL Card Visual Represented below
 
-[Image](https://github.com/user-attachments/assets/37c20c9a-9456-4745-8bff-ea21565fda48)
+![Image](https://github.com/user-attachments/assets/37c20c9a-9456-4745-8bff-ea21565fda48)
 
 Outcomes
 
 This project demonstrates practical skills in Power BI, Power Query, DAX, data cleaning, data analysis, and data visualization by transforming raw Excel data into an interactive business dashboard.
 
-[Image](https://github.com/user-attachments/assets/864f369e-3402-44d1-892a-ee5e041e06a9)
+![Image](https://github.com/user-attachments/assets/864f369e-3402-44d1-892a-ee5e041e06a9)
 
 
 # Test
